@@ -16,7 +16,7 @@
     "countup.js": "^1.9.3",
     "cross-env": "^5.1",
     "font-awesome": "^4.7.0",
-    "jquery": "^1.8",
+    "jquery": "^3.0.0",
     "jquery-textcomplete": "^1.8.4",
     "jquery.flot": "^0.8.3",
     "ladda": "^1.0.6",
@@ -33,6 +33,7 @@
     "toastr": "^2.1.4",
     "v-tooltip": "^2.0.0-rc.32",
     "vue": "^2.5.7",
-    "vue-countup-v2": "^1.0.3"
+    "vue-countup-v2": "^1.0.3",
+    "hoek": "^4.2.1"
   }
 }
